@@ -71,7 +71,7 @@ public:
     StringCount(const string& str = "", int num = 0) :
         string_value(str), count(num) {}
 };
-
+```
 
 ### SimpleHashTable (Used in `main.cpp`)
 
